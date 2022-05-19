@@ -1,3 +1,4 @@
+//Max Bracken 1525988
 //
 // In production, we register a service worker to serve assets from local cache.
 
